@@ -1,2 +1,3 @@
 # DIBR-video-quality-assessment
-TCSVT
+
+Please cite the paper
